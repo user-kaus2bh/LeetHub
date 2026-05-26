@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/user-kaus2bh/LeetHub/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0171-excel-sheet-column-number) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/user-kaus2bh/LeetHub/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
