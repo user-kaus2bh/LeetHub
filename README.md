@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/user-kaus2bh/LeetHub/tree/master/0596-classes-with-at-least-5-students) |
 | [1211-queries-quality-and-percentage](https://github.com/user-kaus2bh/LeetHub/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/user-kaus2bh/LeetHub/tree/master/1251-average-selling-price) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/user-kaus2bh/LeetHub/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Array
 |  |
 | ------- |
