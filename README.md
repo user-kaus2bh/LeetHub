@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/user-kaus2bh/LeetHub/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/user-kaus2bh/LeetHub/tree/master/0596-classes-with-at-least-5-students) |
 | [1211-queries-quality-and-percentage](https://github.com/user-kaus2bh/LeetHub/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/user-kaus2bh/LeetHub/tree/master/1251-average-selling-price) |
 ## Array
 |  |
 | ------- |
