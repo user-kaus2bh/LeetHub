@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/user-kaus2bh/LeetHub/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/user-kaus2bh/LeetHub/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/user-kaus2bh/LeetHub/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/user-kaus2bh/LeetHub/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/user-kaus2bh/LeetHub/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/user-kaus2bh/LeetHub/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/user-kaus2bh/LeetHub/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
