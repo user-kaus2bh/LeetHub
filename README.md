@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/user-kaus2bh/LeetHub/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/user-kaus2bh/LeetHub/tree/master/1158-market-analysis-i) |
 | [1179-reformat-department-table](https://github.com/user-kaus2bh/LeetHub/tree/master/1179-reformat-department-table) |
+| [1193-monthly-transactions-i](https://github.com/user-kaus2bh/LeetHub/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/user-kaus2bh/LeetHub/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/user-kaus2bh/LeetHub/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/user-kaus2bh/LeetHub/tree/master/1327-list-the-products-ordered-in-a-period) |
