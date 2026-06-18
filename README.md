@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3465-find-products-with-valid-serial-numbers](https://github.com/user-kaus2bh/LeetHub/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/user-kaus2bh/LeetHub/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/user-kaus2bh/LeetHub/tree/master/3497-analyze-subscription-conversion) |
+| [3521-find-product-recommendation-pairs](https://github.com/user-kaus2bh/LeetHub/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/user-kaus2bh/LeetHub/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/user-kaus2bh/LeetHub/tree/master/3570-find-books-with-no-available-copies) |
 | [3580-find-consistently-improving-employees](https://github.com/user-kaus2bh/LeetHub/tree/master/3580-find-consistently-improving-employees) |
