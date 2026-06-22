@@ -174,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/user-kaus2bh/LeetHub/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/user-kaus2bh/LeetHub/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
