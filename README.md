@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/user-kaus2bh/LeetHub/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/user-kaus2bh/LeetHub/tree/master/0172-factorial-trailing-zeroes) |
+| [0412-fizz-buzz](https://github.com/user-kaus2bh/LeetHub/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/user-kaus2bh/LeetHub/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/user-kaus2bh/LeetHub/tree/master/0412-fizz-buzz) |
 ## Database
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/user-kaus2bh/LeetHub/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/user-kaus2bh/LeetHub/tree/master/0946-validate-stack-sequences) |
 ## Tree
 |  |
