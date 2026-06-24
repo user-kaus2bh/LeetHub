@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/user-kaus2bh/LeetHub/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/user-kaus2bh/LeetHub/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
