@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/user-kaus2bh/LeetHub/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/user-kaus2bh/LeetHub/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/user-kaus2bh/LeetHub/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/user-kaus2bh/LeetHub/tree/master/0415-add-strings) |
 ## String
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/user-kaus2bh/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/user-kaus2bh/LeetHub/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/user-kaus2bh/LeetHub/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0229-majority-element-ii) |
@@ -200,4 +202,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0189-rotate-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
