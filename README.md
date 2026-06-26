@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/user-kaus2bh/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0189-rotate-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/user-kaus2bh/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/user-kaus2bh/LeetHub/tree/master/0198-house-robber) |
 ## Stack
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/user-kaus2bh/LeetHub/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
