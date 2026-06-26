@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/user-kaus2bh/LeetHub/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/user-kaus2bh/LeetHub/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0179-largest-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/user-kaus2bh/LeetHub/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/user-kaus2bh/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0189-rotate-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/user-kaus2bh/LeetHub/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/user-kaus2bh/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/user-kaus2bh/LeetHub/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/user-kaus2bh/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/user-kaus2bh/LeetHub/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/user-kaus2bh/LeetHub/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0189-rotate-array) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/user-kaus2bh/LeetHub/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
