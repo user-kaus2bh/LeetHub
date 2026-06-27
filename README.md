@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/user-kaus2bh/LeetHub/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/user-kaus2bh/LeetHub/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/user-kaus2bh/LeetHub/tree/master/0441-arranging-coins) |
 ## String
 |  |
 | ------- |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/user-kaus2bh/LeetHub/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/user-kaus2bh/LeetHub/tree/master/0089-gray-code) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/user-kaus2bh/LeetHub/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
