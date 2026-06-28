@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/user-kaus2bh/LeetHub/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/user-kaus2bh/LeetHub/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/user-kaus2bh/LeetHub/tree/master/0191-number-of-1-bits) |
+| [0461-hamming-distance](https://github.com/user-kaus2bh/LeetHub/tree/master/0461-hamming-distance) |
 ## Two Pointers
 |  |
 | ------- |
