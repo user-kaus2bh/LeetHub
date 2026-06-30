@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/user-kaus2bh/LeetHub/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/user-kaus2bh/LeetHub/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/user-kaus2bh/LeetHub/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/user-kaus2bh/LeetHub/tree/master/0455-assign-cookies) |
 ## Backtracking
