@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0414-third-maximum-number) |
@@ -225,10 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/user-kaus2bh/LeetHub/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/user-kaus2bh/LeetHub/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/user-kaus2bh/LeetHub/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/user-kaus2bh/LeetHub/tree/master/0455-assign-cookies) |
 ## Backtracking
@@ -273,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/user-kaus2bh/LeetHub/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
