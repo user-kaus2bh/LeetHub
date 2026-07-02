@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/user-kaus2bh/LeetHub/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/user-kaus2bh/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/user-kaus2bh/LeetHub/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/user-kaus2bh/LeetHub/tree/master/0172-factorial-trailing-zeroes) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/user-kaus2bh/LeetHub/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/user-kaus2bh/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/user-kaus2bh/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0189-rotate-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/user-kaus2bh/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0946-validate-stack-sequences](https://github.com/user-kaus2bh/LeetHub/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
