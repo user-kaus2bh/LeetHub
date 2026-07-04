@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/user-kaus2bh/LeetHub/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/user-kaus2bh/LeetHub/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/user-kaus2bh/LeetHub/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/user-kaus2bh/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/user-kaus2bh/LeetHub/tree/master/0459-repeated-substring-pattern) |
 ## Database
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/user-kaus2bh/LeetHub/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/user-kaus2bh/LeetHub/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/user-kaus2bh/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Counting
 |  |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/user-kaus2bh/LeetHub/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/user-kaus2bh/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
