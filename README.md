@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/user-kaus2bh/LeetHub/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/user-kaus2bh/LeetHub/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/user-kaus2bh/LeetHub/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/user-kaus2bh/LeetHub/tree/master/0463-island-perimeter) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/user-kaus2bh/LeetHub/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/user-kaus2bh/LeetHub/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/user-kaus2bh/LeetHub/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/user-kaus2bh/LeetHub/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/user-kaus2bh/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/user-kaus2bh/LeetHub/tree/master/0162-find-peak-element) |
+| [0436-find-right-interval](https://github.com/user-kaus2bh/LeetHub/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/user-kaus2bh/LeetHub/tree/master/0441-arranging-coins) |
 ## String Matching
 |  |
